@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Graph:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f592790-d0d7-4cc8-95b2-a910cc7fe537" name="Default Changelist" comment="Added main dependencies and architecture">
+      <change afterPath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/MessageResolverImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoBuilder/src/die/mass/AutoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoBuilder/src/die/mass/AutoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoBuilder/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoBuilder/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoBuilder/src/die/mass/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoBuilder/src/die/mass/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/MainInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/MainInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Rate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Rate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Tournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoolmaKilla/src/die/mass/Tournament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BrainCalc/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BrainCalc/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BrainCalc/src/die/mass/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BrainCalc/src/die/mass/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DocGenerator/src/die/mass/ContentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DocGenerator/src/die/mass/ContentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DocGenerator/src/die/mass/DocGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DocGenerator/src/die/mass/DocGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DocGenerator/src/die/mass/FileGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DocGenerator/src/die/mass/FileGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DocGenerator/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DocGenerator/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DocGenerator/src/die/mass/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DocGenerator/src/die/mass/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/models/InnerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/models/InnerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/models/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/CrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/CrudRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/EventsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/EventsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/EventsRepositoryJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/EventsRepositoryJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/RowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EverDay/src/die/mass/repositories/RowMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/die/mass/GraphsGeneralDirectedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/die/mass/GraphsGeneralDirectedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/die/mass/GraphsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/die/mass/GraphsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/die/mass/part/EdgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/die/mass/part/EdgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Graph/die/mass/meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Graph/die/mass/meta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphAbstractEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphAbstractEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphAbstractNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphAbstractNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirected.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirectedEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirectedEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirectedGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirectedGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirectedNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphDirected/GraphDirectedNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphFull/GraphFull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphFull/GraphFull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphFull/GraphFullEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphFull/GraphFullEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphFull/GraphFullNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphFull/GraphFullNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphSimple/GraphSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphSimple/GraphSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphSimple/GraphSimpleEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphSimple/GraphSimpleEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphSimple/GraphSimpleNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphSimple/GraphSimpleNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeightEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeightEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeightGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeightGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeightNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/GraphWeight/GraphWeightNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/AbstractEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/AbstractEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/ArcDirected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/ArcDirected.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/Arrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/Arrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/DirectedEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/DirectedEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/EdgeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/EdgeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/WeightEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/edges/WeightEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Graphs/parts/vertices/AbstractVertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Graphs/parts/vertices/AbstractVertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/IDGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/IDGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/Tree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/Tree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/Tree/TreeAbstractEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/Tree/TreeAbstractEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/Tree/TreeAbstractNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/Tree/TreeAbstractNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/TreeDirected/TreeDirectedNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/TreeDirected/TreeDirectedNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/TreeFull/TreeFullNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/TreeFull/TreeFullNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/TreeSimple/TreeSimpleNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/TreeSimple/TreeSimpleNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/Tree/TreeWeight/TreeWeightNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/Tree/TreeWeight/TreeWeightNotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/meta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphDirectedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphDirectedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphDirectedNodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphDirectedNodeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphFullMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphFullMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphFullNodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphFullNodeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphNodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphNodeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphWeightMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphWeightMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/die/mass/trashcan/GraphWeightNodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/die/mass/trashcan/GraphWeightNodeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MindMap/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MindMap/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MindMap/src/die/mass/dao/DbAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MindMap/src/die/mass/dao/DbAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopChecker/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShopChecker/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopChecker/src/die/mass/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShopChecker/src/die/mass/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StructureOfProject/src/die/mass/DataBaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StructureOfProject/src/die/mass/DataBaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StructureOfProject/src/die/mass/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StructureOfProject/src/die/mass/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StructureOfProject/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StructureOfProject/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/ArrayList/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/ArrayList/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/AutoRepository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/AutoRepository/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/AutoRepository/src/main/java/die/mass/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/AutoRepository/src/main/java/die/mass/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/ChatMultiServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/HibernateSessionFactoryUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/dao/CompanyDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/dao/FamilyDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/dao/LineDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/dao/ProcessorDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/dao/SocketDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/entities/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/entities/Family.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/entities/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/entities/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/entities/Socket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/parser/AmdParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/parser/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/parser/IntelParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/java/die/mass/parser/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/DeviceParser/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/FileChecker/src/main/java/die/mass/Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/FileChecker/src/main/java/die/mass/Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/FileChecker/src/main/java/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/FileChecker/src/main/java/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/Forest/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/Forest/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/PassCreator/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/PassCreator/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/PassCreator/src/die/mass/PassGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/PassCreator/src/die/mass/PassGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/SimpleGUI/out/production/SimpleGUI/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/SimpleGUI/out/production/SimpleGUI/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/SimpleGUI/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/SimpleGUI/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/SimpleGUI/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/SimpleGUI/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/SimpleGUI/src/die/mass/SimpleSwingGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/SimpleGUI/src/die/mass/SimpleSwingGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/TestExeJAR/out/production/TestExeJAR/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/TestExeJAR/out/production/TestExeJAR/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/TestExeJAR/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/TestExeJAR/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/TestExeJAR/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/TestExeJAR/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/vEBtree/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/vEBtree/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/vEBtree/src/die/mass/VEBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/vEBtree/src/die/mass/VEBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeTable/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeTable/script.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/dto/EdgeDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/dto/EdgeDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/ChatMultiServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/GraphChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/GraphChanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/MessageResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/ServerContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeTable/src/main/java/die/mass/sockets/ServerContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TransLanguages/src/die/mass/JavaCodeParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TransLanguages/src/die/mass/JavaCodeParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TransLanguages/src/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TransLanguages/src/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TransLanguages/src/die/mass/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TransLanguages/src/die/mass/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/HibernateSessionFactoryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/HibernateSessionFactoryUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/ParserDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/ParserDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Socket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/entities/Socket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/AmdParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/AmdParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/IntelParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/IntelParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/parser/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/services/ProcessorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/java/die/mass/services/ProcessorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-demo/src/test/java/die/mass/ParserDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parser-demo/src/test/java/die/mass/ParserDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Новая папка/А.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="240" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OraWlayHoARhlQiPD3Iuvk9Ihl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Tests/die/mass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/die/mass/Graphs/Graph/GraphNodeList.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\DieMassProjects\Graph\src\die\mass\trashcan" />
+      <recent name="D:\Projects\Java\DieMassProjects\Graph\src\die\mass\Graphs\Graph\GraphSimple" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="die.mass.Graphs" />
+      <recent name="die" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\DieMassProjects\Graph\src\die\mass\AVL" />
+      <recent name="D:\Projects\Java\DieMassProjects\Graph\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GraphsTest.sout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Graph" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="die.mass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="die.mass" />
+      <option name="MAIN_CLASS_NAME" value="die.mass.GraphsTest" />
+      <option name="METHOD_NAME" value="sout" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphsTest.sout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f592790-d0d7-4cc8-95b2-a910cc7fe537" name="Default Changelist" comment="" />
+      <created>1564738202676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564738202676</updated>
+      <workItem from="1564738206278" duration="11000" />
+      <workItem from="1564738261754" duration="6303000" />
+      <workItem from="1565028041630" duration="943000" />
+      <workItem from="1565457610123" duration="69396000" />
+      <workItem from="1565838066568" duration="2131000" />
+      <workItem from="1565939935676" duration="48185000" />
+      <workItem from="1566025129691" duration="68694000" />
+      <workItem from="1566326076848" duration="11000" />
+      <workItem from="1566670200492" duration="54708000" />
+      <workItem from="1567090066844" duration="10813000" />
+      <workItem from="1567244947488" duration="4427000" />
+      <workItem from="1567536136543" duration="4113000" />
+      <workItem from="1567856730428" duration="1693000" />
+      <workItem from="1568050801850" duration="21000" />
+      <workItem from="1568050896557" duration="1227000" />
+      <workItem from="1568748949761" duration="286000" />
+      <workItem from="1568966684484" duration="236000" />
+      <workItem from="1569214260628" duration="915000" />
+      <workItem from="1569300686568" duration="708000" />
+      <workItem from="1569406519415" duration="1026000" />
+      <workItem from="1569494871546" duration="2226000" />
+      <workItem from="1569498008957" duration="1692000" />
+      <workItem from="1569579663675" duration="112000" />
+      <workItem from="1569865789871" duration="5995000" />
+      <workItem from="1570351836993" duration="1425000" />
+      <workItem from="1572193362933" duration="1075000" />
+      <workItem from="1572864494792" duration="108000" />
+      <workItem from="1575148752114" duration="1839000" />
+      <workItem from="1575215217132" duration="598000" />
+      <workItem from="1575367719330" duration="596000" />
+      <workItem from="1575396319227" duration="1901000" />
+      <workItem from="1575486369138" duration="2250000" />
+      <workItem from="1575530261382" duration="48156000" />
+      <workItem from="1575932878212" duration="1981000" />
+      <workItem from="1576013747388" duration="1279000" />
+      <workItem from="1576042518995" duration="2159000" />
+      <workItem from="1576138778020" duration="16022000" />
+      <workItem from="1576760798568" duration="3253000" />
+      <workItem from="1576777609444" duration="20137000" />
+      <workItem from="1577547766373" duration="7956000" />
+      <workItem from="1579387024534" duration="4693000" />
+      <workItem from="1579705910895" duration="14258000" />
+      <workItem from="1579951426595" duration="12659000" />
+      <workItem from="1580039558312" duration="1087000" />
+      <workItem from="1580040668874" duration="14689000" />
+      <workItem from="1580142415408" duration="52526000" />
+      <workItem from="1580399364026" duration="48984000" />
+      <workItem from="1581016309618" duration="8640000" />
+      <workItem from="1581495755785" duration="224000" />
+      <workItem from="1581496076949" duration="599000" />
+      <workItem from="1581678564761" duration="16234000" />
+      <workItem from="1581969784804" duration="15593000" />
+      <workItem from="1582740995484" duration="1131000" />
+      <workItem from="1582803109400" duration="633000" />
+      <workItem from="1582906524663" duration="596000" />
+      <workItem from="1583168946126" duration="1299000" />
+      <workItem from="1583234250402" duration="598000" />
+      <workItem from="1583406588608" duration="592000" />
+      <workItem from="1583526389828" duration="4107000" />
+      <workItem from="1583535447129" duration="16439000" />
+      <workItem from="1583697804416" duration="1767000" />
+      <workItem from="1583764446365" duration="597000" />
+      <workItem from="1583765976943" duration="598000" />
+      <workItem from="1583822966895" duration="597000" />
+      <workItem from="1583895208945" duration="598000" />
+      <workItem from="1583935626949" duration="448000" />
+      <workItem from="1584645798823" duration="4993000" />
+      <workItem from="1584812214338" duration="237000" />
+      <workItem from="1584812826814" duration="664000" />
+      <workItem from="1584866947874" duration="598000" />
+      <workItem from="1584904002341" duration="598000" />
+      <workItem from="1584909639481" duration="600000" />
+      <workItem from="1584943336386" duration="619000" />
+      <workItem from="1584960521883" duration="297000" />
+      <workItem from="1584962063431" duration="1823000" />
+      <workItem from="1585027512878" duration="3143000" />
+      <workItem from="1585145699515" duration="596000" />
+      <workItem from="1585163012306" duration="77000" />
+      <workItem from="1585179017661" duration="599000" />
+      <workItem from="1585216414790" duration="598000" />
+      <workItem from="1585219723403" duration="596000" />
+      <workItem from="1585237430205" duration="616000" />
+      <workItem from="1585247428612" duration="1197000" />
+      <workItem from="1585301191663" duration="597000" />
+      <workItem from="1585319878527" duration="599000" />
+      <workItem from="1585326097204" duration="615000" />
+      <workItem from="1585333073406" duration="742000" />
+      <workItem from="1585335625014" duration="263000" />
+      <workItem from="1585336977004" duration="750000" />
+      <workItem from="1585397098344" duration="597000" />
+      <workItem from="1585417607065" duration="615000" />
+      <workItem from="1585484544622" duration="1536000" />
+      <workItem from="1585489363580" duration="1290000" />
+      <workItem from="1585574537927" duration="264000" />
+      <workItem from="1585576407887" duration="590000" />
+      <workItem from="1585647482108" duration="1190000" />
+      <workItem from="1585675601685" duration="439000" />
+      <workItem from="1585676392653" duration="14000" />
+      <workItem from="1585754708835" duration="1050000" />
+      <workItem from="1586593259090" duration="3435000" />
+      <workItem from="1586704607662" duration="1190000" />
+      <workItem from="1586811579682" duration="594000" />
+      <workItem from="1586869783771" duration="586000" />
+      <workItem from="1586952244470" duration="592000" />
+      <workItem from="1587126736280" duration="596000" />
+      <workItem from="1587230860272" duration="593000" />
+      <workItem from="1587288160735" duration="1558000" />
+      <workItem from="1602103363073" duration="491000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added main dependencies and architecture">
+      <created>1580157964946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580157964946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added adding of vertices, edges, and toString() method, all without tests">
+      <created>1580326230224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580326230224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="2000" />
+    <MESSAGE value="Added main dependencies and architecture" />
+    <MESSAGE value="Added adding of vertices, edges, and toString() method, all without tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added adding of vertices, edges, and toString() method, all without tests" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585486042703">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="417" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1585045301008" />
+    <state x="417" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1585486042703" />
+    <state x="100" y="100" width="1720" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583608992256">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="100" y="100" width="1720" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581973681384" />
+    <state x="100" y="100" width="1720" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1583608992256" />
+    <state x="705" y="366" width="500" height="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585485278143">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="705" y="366" width="500" height="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1585485278143" />
+    <state x="767" y="227" width="376" height="572" key="#com.intellij.ide.util.MemberChooser" timestamp="1583680457972">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="767" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1581972790637" />
+    <state x="767" y="227" width="376" height="572" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1055@0.0.1920.1055" timestamp="1583680457972" />
+    <state x="807" y="417" width="295" height="213" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585484574891">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="807" y="417" width="295" height="213" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1583526423873" />
+    <state x="807" y="417" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1585484574891" />
+    <state x="805" y="292" width="326" height="589" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583536104870">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="805" y="292" width="326" height="589" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1583536104870" />
+    <state x="755" y="384" width="418" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580377498975">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="755" y="384" width="418" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1580377498975" />
+    <state x="573" y="0" width="478" height="703" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583624585879">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="573" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580716236262" />
+    <state x="573" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1583624585879" />
+    <state x="689" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580199639017">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580199639017" />
+    <state x="689" y="272" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580387891275">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="272" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580387891275" />
+    <state x="584" y="123" key="CommitChangelistDialog2" timestamp="1580326224989">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="584" y="123" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1580326224989" />
+    <state x="549" y="282" width="424" height="479" key="FileChooserDialogImpl" timestamp="1585755161458">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="549" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585163087508" />
+    <state x="549" y="281" width="639" height="481" key="FileChooserDialogImpl/0.0.1920.1055@0.0.1920.1055" timestamp="1584817081016" />
+    <state x="549" y="282" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1056@0.0.1920.1056" timestamp="1585755161458" />
+    <state width="1876" height="234" key="GridCell.Tab.0.bottom" timestamp="1584650021489">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582753786399" />
+    <state width="1876" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1055@0.0.1920.1055" timestamp="1584650021489" />
+    <state width="1876" height="234" key="GridCell.Tab.0.center" timestamp="1584650021488">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="205" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582753786399" />
+    <state width="1876" height="234" key="GridCell.Tab.0.center/0.0.1920.1055@0.0.1920.1055" timestamp="1584650021488" />
+    <state width="1876" height="234" key="GridCell.Tab.0.left" timestamp="1584650021488">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="205" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582753786398" />
+    <state width="1876" height="234" key="GridCell.Tab.0.left/0.0.1920.1055@0.0.1920.1055" timestamp="1584650021488" />
+    <state width="1876" height="234" key="GridCell.Tab.0.right" timestamp="1584650021489">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="205" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582753786399" />
+    <state width="1876" height="234" key="GridCell.Tab.0.right/0.0.1920.1055@0.0.1920.1055" timestamp="1584650021489" />
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom" timestamp="1583608901972">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580575770526" />
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1055@0.0.1920.1055" timestamp="1583608901972" />
+    <state width="1876" height="346" key="GridCell.Tab.1.center" timestamp="1583608901972">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="347" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580575770525" />
+    <state width="1876" height="346" key="GridCell.Tab.1.center/0.0.1920.1055@0.0.1920.1055" timestamp="1583608901972" />
+    <state width="1876" height="346" key="GridCell.Tab.1.left" timestamp="1583608901971">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="347" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580575770525" />
+    <state width="1876" height="346" key="GridCell.Tab.1.left/0.0.1920.1055@0.0.1920.1055" timestamp="1583608901971" />
+    <state width="1876" height="346" key="GridCell.Tab.1.right" timestamp="1583608901972">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1858" height="347" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580575770525" />
+    <state width="1876" height="346" key="GridCell.Tab.1.right/0.0.1920.1055@0.0.1920.1055" timestamp="1583608901972" />
+    <state x="460" y="167" width="1026" height="842" key="SettingsEditor" timestamp="1586626292807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="460" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586626292807" />
+    <state x="460" y="168" width="1026" height="842" key="SettingsEditor/0.0.1920.1055@0.0.1920.1055" timestamp="1584817082749" />
+    <state x="460" y="168" key="SettingsEditor/0.0.1920.1056@0.0.1920.1056" timestamp="1585676039448" />
+    <state x="551" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580326251748">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="551" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1580326251748" />
+    <state x="643" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1585484543650">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="629" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581969828522" />
+    <state x="629" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1584991929306" />
+    <state x="643" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1585484543650" />
+    <state x="677" y="422" width="555" height="217" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583591337967">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="677" y="422" width="555" height="217" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1055@0.0.1920.1055" timestamp="1583591337967" />
+    <state x="742" y="441" width="436" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580715518327">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1580715518327" />
+    <state x="307" y="97" width="1296" height="830" key="new project wizard" timestamp="1583683294973">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="307" y="97" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1583174225880" />
+    <state x="307" y="97" key="new project wizard/0.0.1920.1055@0.0.1920.1055" timestamp="1583683294973" />
+    <state x="733" y="463" width="700" height="296" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585485371360">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="733" y="463" width="700" height="296" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1585485371360" />
+    <state x="616" y="244" width="672" height="681" key="run.anything.popup" timestamp="1583620575821">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1580714202039" />
+    <state x="616" y="244" width="672" height="681" key="run.anything.popup/0.0.1920.1055@0.0.1920.1055" timestamp="1583620575821" />
+    <state x="623" y="229" width="672" height="160" key="search.everywhere.popup" timestamp="1581887597061">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="229" width="672" height="160" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581887597061" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Graph$GraphsTest.ic" NAME="GraphsTest Coverage Results" MODIFIED="1566042869224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>die.*</FILTER>
+    </SUITE>
+  </component>
+</project>
